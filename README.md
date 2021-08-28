@@ -1,4 +1,4 @@
-[1:49 am, 29/08/2021] Vaishnavi Srivastava: <!--
+<!--
 ### Hi there 👋
 *Vaishnavi7279/Vaishnavi7279* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
