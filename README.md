@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am Vaishnavi Srivastava</h3>
 </br>
+
+<p>
 Student at University of Petroleum and Energy Studies, Dehradun
 </br>
 Second Year AI-ML Enthusiast
 </br>
-My Gmail- vaishnavi4365@gmail.com
+My Gmail-
+<a href="vaishnavi4365@gmail.com">
+  vaishnavi4365@gmail.com
+</a>
+</p>
 
 
 </br>
