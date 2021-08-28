@@ -22,7 +22,7 @@ Student at University of Petroleum and Energy Studies, Dehradun
 Second Year AI-ML Enthusiast
 </br>
 My Gmail-
-<a href="vaishnavi4365@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   vaishnavi4365@gmail.com
 </a>
 </p>
