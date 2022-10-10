@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 </br>
 
 <p>
-Student at University of Petroleum and Energy Studies, Dehradun
+Pre-Final year Student at University of Petroleum and Energy Studies, Dehradun
 </br>
-Second Year AI-ML Enthusiast
+Bachelors of Technology in Computer Science 
+</br>
+Major Specialization- Artificial Intelligence and Machine Learning
+</br>
+Minor Specialization- Cloud Computing Fundamentals and Virtualization Techonology
 </br>
 My Gmail-
 <a href="https://mail.google.com/mail/u/0/#inbox">
@@ -39,6 +43,14 @@ My Gmail-
 </br>
 
 
+<hr style="border:1px white"> </hr>
+<h1 align="center">Technologies</h1>
+
+
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 <hr style="border:1px white"> </hr>
 <h1 align="center">Find me</h1>
 <a href="https://www.linkedin.com/in/vaishnavi-srivastava-6150411b7/">
