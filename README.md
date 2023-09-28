@@ -54,16 +54,16 @@ My Gmail-
 ![image](https://img.shields.io/badge/C/C++-3776AB?style=for-the-badge&logo=c/c++&logoColor=white)&nbsp;&nbsp;
 <hr style="border:1px white"> </hr>
 <h1 align="center">Find me</h1>
-<a href="https://www.linkedin.com/in/vaishnavi-srivastava-6150411b7/">
+<a href="https://www.linkedin.com/in/vaishnavi7279/">
   <img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://www.facebook.com/Vaishnavi.1711">
+<a href="https://www.facebook.com/Vaishnavi7279">
   <img width="40px" src="https://img.icons8.com/color/48/000000/facebook.png"  />
 </a>
 <a href="https://www.instagram.com/_vaishnavi93_/">
   <img width="40px" src="https://img.icons8.com/color/48/000000/instagram-new.png"  />
 </a>
-<a href="https://twitter.com/Vaishnavi4365">
+<a href="https://twitter.com/Vaishnavi7279">
   <img width="40px" src="https://img.icons8.com/fluency/48/000000/twitter.png"  />
 </a> 
 <a href="https://sites.google.com/view/vaishnavisrivastava/home">
