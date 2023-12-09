@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">Vaishnavi Srivastava, this side!</h3>
 </br>
-
+<!--Introduction-->
 <p>
 Final year Student at the University of Petroleum and Energy Studies, Dehradun
 </br>
@@ -30,42 +30,57 @@ My Gmail-
   vaishnavi4365@gmail.com
 </a>
 </p>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi7279&style=flat-square&color=blue" alt=""/>
+</div>
 
-
-</br>
+<!--Streak Count-->
+<br>
 <hr style="border:1px white"> </hr>
-</br>
+<br>
 <p align="center">
-<a href="https://github.com/Vaishnavi7279">
-<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi7279&theme=algolia&count_private=true" alt="Vaishnavi7279"/> 
-</a>
+  <a href="https://github.com/Vaishnavi7279">
+    <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi7279&theme=algolia&count_private=true" alt="Vaishnavi7279"/> 
+  </a>
 </p>
 </br>
 
-
+<!--Technologies-->
 <hr style="border:1px white"> </hr>
 <h1 align="center">Technologies</h1>
+<div>
+  <img src="https://img.shields.io/badge/C/C++-3776AB?style=for-the-badge&logo=c/c++&logoColor=white" title="C/C++" alt="C/C++">&nbsp;
+  <img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/HTML/CSS-3776AB?style=for-the-badge&logo=html&logoColor=white" title="HTML/CSS" alt="HTML/CSS">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React">&nbsp;
+  <img src="https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django" width="90" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask">&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL">&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="SQLAlchemy" alt="SQLAlchemy"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
+</div>
 
-![image](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C/C++-3776AB?style=for-the-badge&logo=c/c++&logoColor=white)&nbsp;&nbsp;
+<!--Social-->
 <hr style="border:1px white"> </hr>
 <h1 align="center">Find me</h1>
-<a href="https://www.linkedin.com/in/vaishnavi7279/">
-  <img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a>
-<a href="https://www.facebook.com/Vaishnavi7279">
-  <img width="40px" src="https://img.icons8.com/color/48/000000/facebook.png"  />
-</a>
-<a href="https://www.instagram.com/_vaishnavi93_/">
-  <img width="40px" src="https://img.icons8.com/color/48/000000/instagram-new.png"  />
-</a>
-<a href="https://twitter.com/Vaishnavi7279">
-  <img width="40px" src="https://img.icons8.com/fluency/48/000000/twitter.png"  />
-</a> 
-<a href="https://sites.google.com/view/vaishnavisrivastava/home">
-  <img width="40px" src="https://img.icons8.com/fluency/48/000000/document.png"  />
-</a>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img width="40px" src="https://img.icons8.com/fluent/48/000000/mail.png" /
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi7279/">
+    <img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/Vaishnavi7279">
+    <img width="40px" src="https://img.icons8.com/color/48/000000/facebook.png"  />
+  </a>
+  <a href="https://www.instagram.com/_vaishnavi93_/">
+    <img width="40px" src="https://img.icons8.com/color/48/000000/instagram-new.png"  />
+  </a>
+  <a href="https://twitter.com/Vaishnavi7279">
+    <img width="40px" src="https://img.icons8.com/fluency/48/000000/twitter.png"  />
+  </a> 
+  <a href="https://sites.google.com/view/vaishnavisrivastava/home">
+    <img width="40px" src="https://img.icons8.com/fluency/48/000000/document.png"  />
+  </a>
+</p>
