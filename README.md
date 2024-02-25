@@ -53,12 +53,12 @@ My Gmail-
   <img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/HTML/CSS-3776AB?style=for-the-badge&logo=html&logoColor=white" title="HTML/CSS" alt="HTML/CSS">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React">&nbsp;
-  <img src="https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django" width="90" height="30">&nbsp;
-  <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask">&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL">&nbsp;
-  <img src="https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="SQLAlchemy" alt="SQLAlchemy"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
+  <!--img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"-->&nbsp;
+  <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django" width="90" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/Flask-00000F?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask">&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL">&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-00000F?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="SQLAlchemy" alt="SQLAlchemy"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
 </div>
 
 <!--Social-->
